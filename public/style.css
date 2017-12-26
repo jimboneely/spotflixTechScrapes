@@ -1,0 +1,22 @@
+a{
+  color:#FF8300;
+},
+
+#notes {
+  float: right;
+  width: 30%;
+},
+
+.panel-heading {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: normal;
+    width: 75%;
+    padding-top: 8px;
+},
+
+.btn {
+  color: #1db954;
+  background-color: #1db954
+}
